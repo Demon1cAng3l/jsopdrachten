@@ -10,4 +10,4 @@ document.querySelector('#box1').addEventListener('click', function () {
     document.querySelector('#box2').addEventListener('click', function () {
         document.querySelector('#box1').style.backgroundColor = "mediumorchid";
         console.log("Changed color");
-});
+    });
