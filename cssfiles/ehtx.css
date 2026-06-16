@@ -1,6 +1,6 @@
 #box1 {
     background-color: red;
-    margin-left: 300px;
+    margin-left: 150px;
 }
 #box2 {
     background-color: blue;
@@ -15,8 +15,13 @@
     margin-left: 200px;
 }
 .box {
-    height: 200px;
-    width: 200px;
+    height: 150px;
+    width: 150px;
     margin-top: 300px;
     float: left;
+}
+#resultaten img {
+    width: 200px;
+    height: 200px;
+    image-rendering: pixelated; /* maakt sprites mooi retro */
 }
