@@ -23,5 +23,5 @@
 #resultaten img {
     width: 200px;
     height: 200px;
-    image-rendering: pixelated; /* maakt sprites mooi retro */
+    image-rendering: pixelated;
 }
